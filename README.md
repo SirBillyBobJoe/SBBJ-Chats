@@ -6,10 +6,7 @@ Website to chat with friends or colleagues. Personal project developed to enjoy 
 Feel free to check out the project and explore its features: [SBBJ-Chats](https://sbbj-chats-web-client-27br4jjo7a-uc.a.run.app)
 
 **Screenshots:**
-Here are some screenshots demonstrating the platform's interface:
-
-![Main Interface](images/image1.png)
-![Main Interface](images/image2.png)
+Here are some screenshots demonstrating the platform's interface: (TBC)
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
