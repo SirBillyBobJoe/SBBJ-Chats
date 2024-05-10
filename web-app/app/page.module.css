@@ -1,0 +1,99 @@
+
+.main{
+    height: 100vh;
+    width:auto;
+    background-color: #000;
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    background-color: #333;
+    padding: 30px;
+    border-radius: 30px;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.roomDisplay {
+    background-color: lightgrey;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.header{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name{
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: white;
+}
+
+
+.subHeader{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.room{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.room a{
+    text-decoration: none;
+    color: inherit; 
+}
+.roomName{
+    margin: 10px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+.delete{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.join,.createRoom{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    font-weight: 700;
+    font-size: 15px;
+    transition: ease all 0.3s;
+}
+
+.join:hover,.createRoom:hover{
+    transform: scale(1.05);
+}
+
+
+
+
+
+
